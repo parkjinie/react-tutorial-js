@@ -1,3 +1,10 @@
+# Updates
+
+## 190502
+This project was ejected by commanding `npm run eject` for code analysis.
+
+# Description
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
